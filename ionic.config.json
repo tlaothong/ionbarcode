@@ -1,0 +1,8 @@
+{
+  "name": "IonBarCode",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "46d469c5"
+}
