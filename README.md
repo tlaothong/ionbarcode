@@ -1,0 +1,2 @@
+# ionbarcode
+Test Ionic Barcode
